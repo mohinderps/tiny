@@ -1,6 +1,6 @@
 {
   "name": "@mohindersaluja/tiny",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "type": "module",
